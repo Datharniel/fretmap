@@ -6,7 +6,8 @@
 
 Free, runs in the browser, works on phone and desktop. No account, no install.
 
-<!-- Add a screenshot: drag an image into this file while editing on GitHub, then delete this line -->
+![Uploading Screenshot 2026-10-30 at 15.46.36.png…]()
+
 
 ## What it does
 
